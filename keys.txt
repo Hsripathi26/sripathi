@@ -1,0 +1,2 @@
+aws_key = " paste key here"
+azure_keys = "paste key here"
